@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mime-db": "^1.47.0",
+    "slayer.db": "^1.5.5"
+  },
+  "scripts": {
+    "dev": "tsc && node dist/index.js"
+  }
+}
